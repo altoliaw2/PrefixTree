@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1626411542 source:e:\codeworkshop\codeblock\projectdsalg\prefixtree\main.cpp
+	<iostream>
+	<queue>
+	<unordered_map>
+	<string>
+
